@@ -1,1 +1,8 @@
-
+Steps to do this project:
+1. Load the data 
+2. Preprocess the data
+3. Save that data in pickle format
+4. Create a TMDB database API key
+5. Write a code which is given in app.py
+6. Execute this file in pycharm with following command:
+   "streamlit run app.py"
